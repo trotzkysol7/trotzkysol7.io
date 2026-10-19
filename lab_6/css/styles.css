@@ -24,7 +24,7 @@ h1 {   position: absolute;
 /*{ position: relative;
   margin-top: 40px;
   border-radius: 12px, 12px, 0px, 0px;}*/ 
-footer {   
+.footer {   
     background-color: #777;
     height: 80px;
     clear: both;}
@@ -34,31 +34,33 @@ footer {
     float: left;
     position: relative;
     left:50%;} */
-page-wrapper {   background-image: url("../images/main.png");
+body {   background-image: url("../images/black.png");
     float: left;}
 
-content-wrapper {   background-image: url("../images/main.png"); }
+.main-content {   background-image: url("../images/repeating.png"); }
 
-bul1 {   min-height: 300px;
+/* {   min-height: 300px;
     width: 715px;
     margin-right: 30px;
     float: left;
-    margin-left: 15px;}
-/*{ font-size: 2em;
+    margin-left: 15px;}*/
+.bul1{ font-size: 2em;
   font-weight: 900;}*/
 
-image-r {   float: right;
+.image-r {  
+    float: right;
     border: 2px solid blue;
     width: 300px;
     padding: 5px;
     background-color: white;
-    margin: 10px 0 10px 20px;}
+    margin: 10px 0 10px 20px;
+}
 
-side-content {   min-height: 150px;
+.side-content {   min-height: 150px;
     width: 200px;
     float: left;}
 
-main-nav {   float: left;
+.main-nav {   float: left;
     width: 100%;
     background-color: #333;}
 
@@ -71,7 +73,7 @@ main-nav {   float: left;
     display: block;
     text-decoration: none;
     color: #ccc;}*/ 
-/*{   background-color: #ccc;
+.main-nav{   background-color: #ccc;
     color: #333;}*/
 
 page-wrapper {   width: 960px;
@@ -79,13 +81,13 @@ page-wrapper {   width: 960px;
     box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
     border-radius: 12px 12px 0px 0px; }
 
-logo1 {   float: left;
+.logo1 {   float: left;
     position: relative;
     right: 50%;}
 
-center {       width: 960px;
+.center {       width: 960px;
         text-align: center;}
 
-main-content {       font-weight: 900;
+.main-content {       font-weight: 900;
         font-size: 48px;}
 
