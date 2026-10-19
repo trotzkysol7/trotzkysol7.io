@@ -34,9 +34,11 @@ footer {
     float: left;
     position: relative;
     left:50%;} */
-page-wrapper {   background-image: url("../images/black.jpg");
+page-wrapper {   background-image: url("../images/main.png");
     float: left;}
-content-wrapper {   background-image: url("../images/black.jpg"); }
+
+content-wrapper {   background-image: url("../images/main.png"); }
+
 bul1 {   min-height: 300px;
     width: 715px;
     margin-right: 30px;
