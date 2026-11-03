@@ -47,7 +47,6 @@ img.pic {
 }
 
 body.resume { 
-  text-background: none;
   display: block;
   background-color: #f0e6d2;
   font-family: 'Times New Roman', monospace;
