@@ -1,0 +1,51 @@
+/* THIS PART OF MY CODE IS GOING TO BE FLUID LAYOUT 
+(em, rem, vm, %) */ 
+/*//////////////NAV BAR CSS///////////////////////*/
+
+ul {
+  list-style-type: none;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #414ba4;
+}
+
+ul li {
+  float: left;
+
+}
+
+ul li a {
+  display: inline-block;
+  text-align: center;
+  color: rgb(139, 146, 255);
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #4b91ce;
+}
+/*/////////////////////////////////////////////////////////////////////////*/
+body{
+    background-image: url("../media/dotz.jpg");
+}
+img{
+  border-style: dotted;
+  border-width: 1em;
+  border-color: #ff98c8;
+  border-radius: 2rem;
+}
+h1{
+    font-family: 'Lucida Handwriting', cursive, bold;
+    color: #882278;
+    text-align: center;
+    text-shadow: .1em .1em #3099ce;
+}
+
+h3 {
+    color: #4b8227;
+    font-family: 'Lucida Handwriting', cursive;
+    text-shadow: .1em .1em #ff9ee0;
+}

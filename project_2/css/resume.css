@@ -1,0 +1,40 @@
+/* THIS PART OF MY CODE IS GOING TO BE FIXED LAYOUT*/ 
+
+/*//////////////NAV BAR CSS///////////////////////*/
+
+ul {
+  list-style-type: none;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #414ba4;
+}
+
+ul li {
+  float: left;
+
+}
+
+ul li a {
+  display: inline-block;
+  text-align: center;
+  color: rgb(139, 146, 255);
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #4b91ce;
+}
+/*/////////////////////////////////////////////////////////////////////////*/
+
+body { 
+  display: block;
+  background-color: #f0e6d2;
+  font-family: 'Times New Roman', monospace;
+  color: #333;
+
+
+
+}
