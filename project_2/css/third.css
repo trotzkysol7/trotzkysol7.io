@@ -33,7 +33,10 @@ body{
     background-image: url("../media/dotz.jpg");
 }
 img{
-  align-items: center;
+  justify-content: center;
+  margin-left:4.5%;
+  margin-right: 4.5%;
+  margin-bottom: 3%;
   border-style: dotted;
   border-width: 1em;
   border-color: #ff98c8;
@@ -43,11 +46,24 @@ h1{
     font-family: 'Lucida Handwriting', cursive, bold;
     color: #882278;
     text-align: center;
+    justify-content: center;
     text-shadow: .1em .1em #3099ce;
 }
 
 h3 {
+    font-size: 3rem;
+    text-align: center;
+    justify-content: center;
     color: #4b8227;
     font-family: 'Lucida Handwriting', cursive;
     text-shadow: .1em .1em #ff9ee0;
+}
+video{
+  text-align: center;
+  justify-content: center;
+  border-style: dotted;
+  border-width: 1em;
+  border-color: #71e276;
+  border-radius: 2rem;
+
 }

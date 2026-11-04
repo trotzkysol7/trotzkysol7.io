@@ -30,15 +30,14 @@ nav ul li a:hover {
 }
 
 /*/////////////////////////////////////////////////////////////////////////*/
-
-body { 
-  display: block;
+body{  
   background-color: #f0e6d2;
+}
+.resume { 
+  display: block;
   font-family: 'Times New Roman', monospace;
   color: #333;
   padding-left: 70px;
-
-
 }
 
 img {
