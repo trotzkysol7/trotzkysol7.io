@@ -2,6 +2,7 @@
 
 body{
     background-color: #efd496;
+    text-align: center;
 }
 h1{
     color: #882278;
@@ -14,7 +15,9 @@ h2{
     font-family: 'Lucida Handwriting', bold, monospace;
     text-shadow: 2px 2px #ff9ee0;
 }
+
 ul {
+  text-align: center;
   list-style-type: none;
   text-align: justify;
   margin: 0;
@@ -24,6 +27,7 @@ ul {
 }
 
 ul li {
+  text-align: center;
   float: left;
 
 }
@@ -37,6 +41,7 @@ ul li a {
 }
 
 ul li a:hover {
+  text-align: center;
   background-color: #4b91ce;
 }
 p{

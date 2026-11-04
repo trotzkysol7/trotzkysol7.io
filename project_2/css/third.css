@@ -1,8 +1,7 @@
 /* THIS PART OF MY CODE IS GOING TO BE FLUID LAYOUT 
 (em, rem, vm, %) */ 
 /*//////////////NAV BAR CSS///////////////////////*/
-
-ul {
+ul{
   list-style-type: none;
   text-align: justify;
   margin: 0;
@@ -32,6 +31,7 @@ body{
     background-image: url("../media/dotz.jpg");
 }
 img{
+  align-items: center;
   border-style: dotted;
   border-width: 1em;
   border-color: #ff98c8;

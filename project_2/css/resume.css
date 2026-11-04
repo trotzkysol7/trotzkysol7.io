@@ -1,7 +1,6 @@
 /* THIS PART OF MY CODE IS GOING TO BE FIXED LAYOUT*/ 
 
 /*//////////////NAV BAR CSS///////////////////////*/
-
 ul {
   list-style-type: none;
   text-align: justify;
@@ -13,7 +12,6 @@ ul {
 
 ul li {
   float: left;
-
 }
 
 ul li a {
@@ -25,8 +23,9 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #4b91ce;
+ background-color: #4b91ce;
 }
+
 /*/////////////////////////////////////////////////////////////////////////*/
 
 body { 
@@ -34,7 +33,6 @@ body {
   background-color: #f0e6d2;
   font-family: 'Times New Roman', monospace;
   color: #333;
-
 
 
 }
