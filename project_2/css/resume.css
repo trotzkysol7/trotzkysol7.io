@@ -10,6 +10,7 @@ nav ul {
   flex-wrap: wrap;
   overflow: hidden;
   background-color: #414ba4;
+  padding: 0;
 }
 
 nav ul li {
@@ -35,10 +36,12 @@ body {
   background-color: #f0e6d2;
   font-family: 'Times New Roman', monospace;
   color: #333;
+  padding-left: 70px;
 
 
 }
 
 img {
     float: right;
+    padding-right: 70px;
 }
