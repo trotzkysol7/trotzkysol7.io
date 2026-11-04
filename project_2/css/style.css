@@ -17,11 +17,12 @@ h2{
 }
 
 ul {
-  text-align: center;
-  list-style-type: none;
-  text-align: justify;
+  list-style: none;
   margin: 0;
-  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
   overflow: hidden;
   background-color: #414ba4;
 }
